@@ -56,10 +56,6 @@ const theme = createTheme({
 
 const useStyles = makeStyles((theme) => ({
   app: {
-    
-   
-   
-
       minHeight: "100vh",
       background: "rgb(243,185,63)",
       background:
@@ -74,8 +70,6 @@ const useStyles = makeStyles((theme) => ({
         left: "30px",
       },
     },
-
-  },
 }));
 
 const App = () => {
